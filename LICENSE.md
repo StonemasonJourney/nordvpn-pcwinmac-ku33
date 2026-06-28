@@ -1,4 +1,4 @@
-# 
+# Instantáneo NordVPN plugins para Mac OS | Personalizado NordVPN plugins para PC Windows. Con control de aplicaciones y limitación de velocidad — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
